@@ -18,8 +18,8 @@ description: >-
   directly — depend on applooma_rtc instead.
 version: 2.12.0
 homepage: https://applooma.dev
-repository: https://github.com/apploomadev/Flutter-Core
-issue_tracker: https://github.com/apploomadev/Flutter-Core/issues
+repository: https://github.com/AppLooma-RTC/Flutter-Core
+issue_tracker: https://github.com/AppLooma-RTC/Flutter-Core/issues
 documentation: https://docs.applooma.dev/sdk/flutter
 
 environment:

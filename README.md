@@ -8,7 +8,7 @@ published separately because Dart resolves dependencies by package, not by
 bundle, and it carries no stable public API of its own.
 
 - Documentation — https://docs.applooma.dev/sdk/flutter
-- Issues — https://github.com/apploomadev/Flutter-Core/issues
+- Issues — https://github.com/AppLooma-RTC/Flutter-Core/issues
 - Support — support@applooma.dev
 
 ## Licence
